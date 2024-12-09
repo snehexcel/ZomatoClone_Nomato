@@ -46,21 +46,9 @@ Zomato is a online food ordering application, we made a clone (Nomato) of it usi
 
 <img src="Project Images/AddRestaurant.png" />
 
-
-# Order Online Page:
-
-<img src="Project Images/OrderOnlinePage.png" />
-
-
 # User Profile Page:
 
 <img src="Project Images/UserProfilePage.png" />
-
-
-# Hotel Order Page:
-
-<img src="Project Images/HotelOrderPage.png" />
-
 
 ### Project Started Date: oct, 10, 2024
 
